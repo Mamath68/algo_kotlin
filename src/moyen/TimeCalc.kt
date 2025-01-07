@@ -1,0 +1,4 @@
+package moyen
+
+class calc {
+}
